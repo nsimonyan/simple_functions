@@ -1,4 +1,4 @@
-public class MargeSortedArrays {
+public class MergeSortedArrays {
 
     public static int[] merge(int[] firstArray, int[] secondArray)
     {
